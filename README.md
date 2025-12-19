@@ -19,6 +19,7 @@ Durante o desenvolvimento, pratiquei os seguintes comandos:
 * `git commit -m "mensagem"`: Salvando alterações localmente.
 * `git push`: Enviando código para o servidor remoto.
 * `git pull`: Atualizando o repositório local.
+* Entre vários outros comandos importantes para o trabalho 
 * **Resolução de Erros**: Como lidar com o arquivo `index.lock` e conflitos de merge.
 
 ## 🚀 Como clonar o projeto
